@@ -127,4 +127,7 @@ Message: Validation error (explanation)
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
+<<<<<<< HEAD
 hi
+=======
+>>>>>>> 9193f6fa8c16403fdc2eec2a31e7a8bb6351cb72
